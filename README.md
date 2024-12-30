@@ -41,7 +41,6 @@ Scrapes daily news from **ScienceDaily** and saves it as a CSV with titles, summ
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Contact Me 
 - 📧 **Email**: [danialghofrani1@gmail.com](mailto:danialghofrani1@gmail.com)  
 - 🔗 **LinkedIn**: [Danial Ghofrani](https://www.linkedin.com/in/danial-ghofrani-611ba5265)  
-- 🖥️ **GitHub**: [Danial-Ghofrani](https://github.com/Danial-Ghofrani)  
